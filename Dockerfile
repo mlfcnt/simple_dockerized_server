@@ -1,5 +1,4 @@
 # Utiliser une image bun officielle comme image de base
-
 FROM oven/bun:1
 
 # Définir le répertoire de travail à /app
